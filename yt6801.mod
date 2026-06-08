@@ -1,0 +1,2 @@
+/home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-common.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-desc.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-ethtool.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-hw.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-net.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-pci.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-phy.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-efuse.o /home/inwinic/driver_yt6801/yt6801-1.0.30/fuxi-gmac-ioctl.o
+
